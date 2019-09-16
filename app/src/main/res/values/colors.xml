@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="MartiniqueDark">#3C3A3F</color>
+    <color name="TulipTreeDark">#e3ae3e</color>
+    <color name="BahamaBlue">#125788</color>
+</resources>
